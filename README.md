@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Para la creación de la base de datos y el seed  utilice ruby on rails, esta parte esta completa, para conectar la base de datos con el front de react utilice insomnia para el apifetch. 
