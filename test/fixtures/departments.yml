@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num_departamento: 1
+  nombre_departamento: MyString
+
+two:
+  num_departamento: 1
+  nombre_departamento: MyString

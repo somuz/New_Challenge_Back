@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sku: 1
+  articulo: MyText
+  marca: MyText
+  modelo: MyText
+  alta: 2022-11-07
+  stock: 1
+  cantidad: 1
+  descontinuado: false
+  baja: 2022-11-07
+
+two:
+  sku: 1
+  articulo: MyText
+  marca: MyText
+  modelo: MyText
+  alta: 2022-11-07
+  stock: 1
+  cantidad: 1
+  descontinuado: false
+  baja: 2022-11-07
